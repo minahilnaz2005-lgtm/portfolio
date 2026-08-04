@@ -470,7 +470,6 @@ header{
 
 }
 
-/* Mobile */
 @media (max-width:768px){
 
 header{
@@ -534,7 +533,6 @@ footer{
 
 }
 
-/* Small Phones */
 @media (max-width:480px){
 
 .logo{
