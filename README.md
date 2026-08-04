@@ -6,13 +6,12 @@ Hi, I'm **Minahil**, a WordPress Developer passionate about creating responsive,
 
 I also have experience working on website customization, maintenance, responsive improvements, and schema markup implementation.
 
-## Technologies Used
+## Skills
 - HTML5
 - CSS3
 - WordPress
 - Elementor
 - WooCommerce
-- JavaScript (Basic)
 - Responsive Web Design
 
 ## Featured Projects
